@@ -1,0 +1,14 @@
+{
+  "name": "face icons",
+  "description": "by Orz-3",
+  "icons": [
+    {
+      "name": "twitter",
+      "url": "https://raw.githubusercontent.com/IsKanng/face-icon/refs/heads/main/twitter.png"
+    },
+    {
+      "name": "twitter",
+      "url": "https://raw.githubusercontent.com/IsKanng/face-icon/refs/heads/main/twitter.svg"
+    }
+  ]
+}
